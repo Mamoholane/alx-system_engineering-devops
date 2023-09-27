@@ -1,4 +1,4 @@
-# 0x0B. SSH
+# Project: 0x0B. SSH
 
 ## Learning Objectives
 - What is a server
